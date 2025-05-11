@@ -13,5 +13,5 @@ local function AntiAFK()
         end
     end
 end
-
+print("suc")
 AntiAFK()
